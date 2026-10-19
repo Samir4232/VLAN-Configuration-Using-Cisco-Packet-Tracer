@@ -1,5 +1,5 @@
 
-# 🧪 Day 3 – VLAN Configuration Using Cisco Packet Tracer
+# 🧪 VLAN Configuration Using Cisco Packet Tracer
 
 ## 🎯 Objective
 
@@ -220,3 +220,6 @@ Result → **Fail**
 * Different VLAN devices cannot communicate (No Router / L3 Switch)
 
 ---
+## Network Topology
+
+![Enterprise Network Topology](topology-screenshot.png)
